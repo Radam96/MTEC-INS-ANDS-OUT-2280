@@ -1,0 +1,21 @@
+Riyad Adam
+
+                       Three Artists
+
+
+1) Graffiti Research Lab – LASER Tag Laser video-projection graffiti
+- I chose this one becuase it caught my eye first when it said video projection, only because i like stuff like that.
+  Also this project looks pretty cool its resembles one of our first projects we did in class with the line drawing in our processing sketches. 
+   So i would assume that a concept of line dragged because you have to hold the laser so you can draw and not just flash it at the building. and i would
+   guess that on the building there's like a sensor somewhere.
+
+
+2) Aussie50 – Self Destroying Laundry Machine Epic A laundry machine that destroys itself
+- I literally laughed watching this video to the end. The only thing i can assume what happened was what he threw in the machine caused some sort of reaction
+  with the washing machine and caused it to spazz out. Also at the bottom of the machine had a device, in which the user may have set a timer. there might have also 
+ been a delay time, you can tell it increases every second or other.
+
+3 )Barbican - Rain Room
+- This room looks very intresting at first if i was walking i would be contimplating whether or not if i were to get wet walking through. We can see 
+  that this a 3d concept with a combination of Video projection and proper camera angling. Illusions like that is very fascinating to me. I'm unsure about the coding, but i assume it's
+ a time coding with certain videos.

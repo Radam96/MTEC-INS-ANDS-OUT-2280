@@ -1,7 +1,7 @@
 
 // create an array to store the digital pin
 // info for 5 LEDs
-int ledPin[] = {5, 6, 7, 8, 9};
+int ledPin[] = {5, 6, 7, 8,};
  
  
 void setup() {
