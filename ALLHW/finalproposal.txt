@@ -1,0 +1,8 @@
+Riyad Adam
+MTECH
+
+Proposals
+
+1) Me and Oz can do a handshake in some funny way. So we'll have to code our arms in an oppiste way, becuase we if have the same code they will all go the same direction and defeat the purpose.
+
+2) The robot arm can lift up and object and if it drops then it acivates it's laser. Like a crime cop robot, any sudden move its laser come on and scopes out the place. I would need several objects, some light/heavy, of course the laser. I'm guessing I'll need a sensor because im not sure how the laser will come on once the onject drops. Or ill have to code the object to drop then immedietely right after the laser comes on.
